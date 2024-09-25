@@ -99,3 +99,5 @@ function updateNamedRanges() {
   
   SpreadsheetApp.getUi().alert('Named ranges updated successfully.');
 }
+
+// Script by Daniel Emery from Perth SEO Agency: https://perth-seo-agency.com.au/
